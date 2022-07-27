@@ -14,3 +14,152 @@
     background-color: rgba(119, 136, 153, 0.322);
     border-radius: 2%;
 }
+
+/*responsive  */
+
+.navbar-toggler{
+
+    padding-left: 5px;
+}
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-left: 16px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 18px;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    margin-left: 16px;
+}
+
+
+
+
+.h-75 {
+    height: 100%!important;
+}
+
+
+
+
+img .h-75 {
+    height: 16%!important;
+}
+
+.imran{
+    height: 16%!important;
+}
+
+.rayhan{
+
+    height: 94px;
+    width: 450px;
+
+}
+
+utton, input, optgroup, select, textarea {
+    margin: 84px;
+}
+
+row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+}
+.jun{
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 15px;
+}
+
+.july{
+
+ 
+    margin-top: 18px;
+    margin-left: 1px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+
+.aug{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 2px;
+
+}
+
+.est{
+
+    margin-left: -25px;
+}
+
+.sep{
+
+    margin-left: -25px;
+}
+
+
+
+.imran {
+    height: 81%!important;
+}
+
+
+
+
+
+.form-control {
+    display: block;
+    width: 222%;
+}
+@media secreen and (max-width: 767px) {
+
+   form .jaka{
+        margin-left: 9px;
+        margin-top: 50px;
+    }
+
+    .fit{
+
+        margin-left: -59px;
+    }
+
+    .kaka {
+        padding-right: 6px;
+        max-width: 100%;
+        height: auto;
+    }
+   
+}
+
+/* .jaka{
+
+    margin-left: 95px;
+} */
+
+.abc{
+
+    margin-left: 70px;
+
+}
+
+.text-secondary{
+
+    margin-left: 70px;
+}
+.btn{
+
+    margin-left: 70px;
+}
